@@ -1,0 +1,17 @@
+.title{
+  text-align: center;
+}
+.tweetform , .loading{
+   width: 50%;
+   margin: 0 auto;
+}
+.loading{
+  text-align: center;
+}
+
+.tweets{
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: lightblue;
+}
